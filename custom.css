@@ -1,0 +1,41 @@
+.my-btn{
+    width: 100px;
+    height: 50px;
+    border: unset;
+    border-radius: 10px;
+}
+
+.home-btn{
+    background-color: #317774;
+    color: #e2d1f9;
+}
+
+.ps-btn{
+    background-color: #e2d1f9;
+    color: #317774;
+}
+
+.about-btn{
+    background-color: #317774;
+    color: #e2d1f9;
+}
+
+.contact-btn{
+    background-color: #e2d1f9;
+    color: #317774;
+}
+
+.img-lol{
+    height: 45vh;
+    width: 300px;
+}
+
+.img-smol{
+    height: 20vh;
+    width: 100px;
+}
+
+.my-logo{
+    font-family: cursive;
+}
+
